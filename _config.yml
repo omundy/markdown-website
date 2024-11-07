@@ -1,4 +1,4 @@
 title: Cool Website
 description: Built using Github !
 # theme: minima
-remote_theme: jeromelachaud/freelancer-theme
+remote_theme: daattali/beautiful-jekyll@6.0.1
