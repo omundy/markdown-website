@@ -3,6 +3,7 @@ description: Built using Github !
 
 # https://github.com/jekyll/minima
 theme: minima
+skin: dark
 
 # remote_theme: daattali/beautiful-jekyll@6.0.1
 # remote_theme: just-the-docs
