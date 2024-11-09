@@ -2,12 +2,13 @@ title: Cool Website
 description: Built using Github !
 
 # https://github.com/jekyll/minima
-# theme: minima
+theme: minima
 
 # remote_theme: daattali/beautiful-jekyll@6.0.1
 # remote_theme: just-the-docs
 
 
-remote_theme: pages-themes/architect@v0.2.0
+# remote_theme: pages-themes/architect@v0.2.0
+
 plugins:
 - jekyll-remote-theme 
